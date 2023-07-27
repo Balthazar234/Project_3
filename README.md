@@ -40,7 +40,7 @@ This project utilizes Jenkins CI/CD declarative pipeline to automate the deploym
 
 7. Now check if it got installed by running “jenkins --version” and “docker --version”
 
-   <img src="https://i.imgur.com/A2ZGMpH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/A2ZGMpH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
